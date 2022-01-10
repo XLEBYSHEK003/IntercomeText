@@ -11,6 +11,6 @@ namespace IntercomeText
         public bool IsEnabled { get; set; } = true;
 
         [Description("Text in intercome")]
-        public string Itext { get; set; } = "1";
+        public string StartedIntercomeText { get; set; } = "1";
     }
 }
